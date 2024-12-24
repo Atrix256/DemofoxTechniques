@@ -3,9 +3,7 @@
     [
         {
             "Repo": "https://github.com/Atrix256/DemofoxTechniques.git",
-            "Commit": "bd23c6a9b6a5ef981b6d909de23e82f3cd18d129",
-            "Screenshot":"Techniques/Life/Screenshot.png",
-            "License":"Techniques/Life/LICENSE",
+            "Commit": "312351332171b198431f06bc892bd31ad3e12dea",
             "Meta": "Techniques/Life/Technique.json"
         }
     ]

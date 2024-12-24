@@ -4,5 +4,8 @@
     "Author":"Demofox",
     "Tags":"game,simulation,compute",
     "Folder": "Techniques/Life/",
-    "Technique": "Techniques/Life/DemofoxLife.gg"
+    "Technique": "Techniques/Life/DemofoxLife.gg",
+    "Website": "https://github.com/Atrix256/DemofoxTechniques",
+    "Screenshot":"Techniques/Life/Screenshot.png",
+    "License":"Techniques/Life/LICENSE",
 }
